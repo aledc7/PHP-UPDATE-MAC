@@ -20,20 +20,17 @@ brew install php@7.2
 ```
 
 
-```
 
 
 ###### 3 - cerrar y volver a abrir la terminal
 
 
-
-
 ###### 4 - por ultimo comprobar la versión de PHP con el siguiente comando
+
 
 ```javascript	
 php -v
 ```
-
 
 
 
@@ -49,3 +46,8 @@ Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies
 
 
 ###### Eso sería todo
+
+###### SALUDOS !
+
+
+- [X] ING. ALEJANDRO DE CASTRO
