@@ -1,8 +1,10 @@
 # Actualizar a PHP 7 en MAC
 
-- [x] Ing. Alejandro De Castro
-- [x] 23/08/2018
-- [x] ing.alejandrodecastro@gmail.com
+[<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
+
+
+- [x] aledc.com
+
 
 
 ###### 1 - Abrir la terminal y actualizar brew
